@@ -17,11 +17,11 @@
 
 ## 🚀 Featured Projects
 
-### [Employee Management System](https://github.com/Taherislam219/Employee-Management-System)
-A Java, JDBC, and MySQL console application with admin login and employee record management, including add, find, update, delete, and list operations.
-
 ### [Algorithm](https://github.com/Taherislam219/Algorithm)
 C++ practice implementations covering graph algorithms, dynamic programming, greedy algorithms, and binary search trees.
+
+### [DataStructure](https://github.com/Taherislam219/DataStructure)
+C++ practice programs covering stacks, queues, linked lists, trees, searching, and recursion.
 
 ### [my_first_app](https://github.com/Taherislam219/my_first_app)
 A Flutter and Dart learning project for practicing mobile app UI and Flutter widgets.
@@ -29,11 +29,11 @@ A Flutter and Dart learning project for practicing mobile app UI and Flutter wid
 ### [C-Project](https://github.com/Taherislam219/C-Project)
 C programming exercises including matrix operations, Tic-Tac-Toe, and array operations.
 
-### [DataStructure](https://github.com/Taherislam219/DataStructure)
-C++ practice programs covering stacks, queues, linked lists, trees, searching, and recursion.
-
 ### [Root-Finding](https://github.com/Taherislam219/Root-Finding)
 Python implementations of numerical methods such as bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
+
+### [Sorting_C-](https://github.com/Taherislam219/Sorting_C-)
+C++ practice implementations of common sorting algorithms, including bubble, selection, insertion, merge, and quick sort.
 
 ## 📚 What I'm Working On
 
