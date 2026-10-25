@@ -17,6 +17,9 @@
 
 ## 🚀 Featured Projects
 
+### [Employee-Management-System](https://github.com/Taherislam219/Employee-Management-System)
+A Java and MySQL employee management system using JDBC, with admin login and employee management features.
+
 ### [Algorithm](https://github.com/Taherislam219/Algorithm)
 C++ practice implementations covering graph algorithms, dynamic programming, greedy algorithms, and binary search trees.
 
