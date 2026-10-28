@@ -3,7 +3,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Taherislam219&style=for-the-badge&color=blue)
 
 🎓 Computer Science and Engineering student at **Leading University**  
-💻 Learning software development by building projects and practicing problem-solving.
+💻 Beginner developer learning by building projects and practicing problem-solving.
+
+I enjoy learning programming fundamentals, exploring algorithms, and building small applications as I grow my skills.
+
+## 🧭 What I'm Learning
+
+- C and C++ fundamentals, data structures, and algorithms
+- Java, JDBC, and MySQL for database-backed applications
+- Dart and Flutter for mobile app development
+- Python for programming practice and numerical methods
 
 ## 🛠️ Technologies & Tools
 
@@ -19,33 +28,34 @@
 
 ## 🚀 Featured Projects
 
-### [Employee-Management-System](https://github.com/Taherislam219/Employee-Management-System)
-A Java and MySQL employee management system using JDBC, with admin login and employee management features.
+### [Employee Management System](https://github.com/Taherislam219/Employee-Management-System)
+A Java and MySQL learning project using JDBC for employee management and admin login.
 
-### [Algorithm](https://github.com/Taherislam219/Algorithm)
-C++ practice implementations covering graph algorithms, dynamic programming, greedy algorithms, and binary search trees.
+### [Algorithms in C++](https://github.com/Taherislam219/Algorithm)
+Practice implementations of graph algorithms, dynamic programming, greedy algorithms, and binary search trees.
 
-### [DataStructure](https://github.com/Taherislam219/DataStructure)
-C++ practice programs covering stacks, queues, linked lists, trees, searching, and recursion.
+### [Data Structures in C++](https://github.com/Taherislam219/DataStructure)
+Practice programs for stacks, queues, linked lists, trees, searching, and recursion.
 
-### [my_first_app](https://github.com/Taherislam219/my_first_app)
-A Flutter and Dart learning project for practicing mobile app UI and Flutter widgets.
+### [My First Flutter App](https://github.com/Taherislam219/my_first_app)
+A Flutter and Dart learning project exploring mobile UI layouts and widgets.
 
-### [C-Project](https://github.com/Taherislam219/C-Project)
+### [Root-Finding Methods](https://github.com/Taherislam219/Root-Finding)
+Python implementations of numerical methods including bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
+
+### [C Programming Projects](https://github.com/Taherislam219/C-Project)
 C programming exercises including matrix operations, Tic-Tac-Toe, and array operations.
 
-### [Root-Finding](https://github.com/Taherislam219/Root-Finding)
-Python implementations of numerical methods such as bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
+## 📈 Current Goals
 
-### [Sorting_C-](https://github.com/Taherislam219/Sorting_C-)
-C++ practice implementations of common sorting algorithms, including bubble, selection, insertion, merge, and quick sort.
+- Strengthen programming fundamentals and problem-solving
+- Practice data structures and algorithms consistently
+- Improve project documentation and code quality
+- Build useful projects and learn from feedback
 
-## 📚 What I'm Working On
+## 🤝 Connect & Collaborate
 
-- Improving my programming fundamentals and problem-solving skills
-- Practicing Data Structures and Algorithms
-- Learning and building with Flutter and Dart
-- Developing database-backed applications with Java and MySQL
+I'm learning in public and always happy to learn from other developers. If you spot something I can improve in one of my learning projects, feel free to open an issue or share constructive feedback.
 
 ## 📊 GitHub Stats
 
@@ -58,4 +68,4 @@ C++ practice implementations of common sorting algorithms, including bubble, sel
 
 ---
 
-📌 *I'm continuously learning, building projects, and improving one step at a time.*
+📌 *Learning, building, and improving one project at a time.*
