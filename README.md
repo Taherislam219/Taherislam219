@@ -1,5 +1,7 @@
 # Hi, I'm Taher Islam Jahid 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Taherislam219&style=for-the-badge&color=blue)
+
 🎓 Computer Science and Engineering student at **Leading University**  
 💻 Learning software development by building projects and practicing problem-solving.
 
