@@ -1,20 +1,18 @@
 # Hi, I'm Taher Islam Jahid 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Taherislam219&style=for-the-badge&color=blue)
-
 🎓 Computer Science and Engineering student at **Leading University**  
-💻 Beginner developer learning by building projects and practicing problem-solving.
+💻 Beginner developer — **still learning, building, and improving one project at a time.**
 
-I enjoy learning programming fundamentals, exploring algorithms, and building small applications as I grow my skills.
+I'm learning software development by practicing programming fundamentals, solving problems, and building small projects. My repositories are works in progress, and I'm sharing my journey as I grow.
 
-## 🧭 What I'm Learning
+## 🌱 What I'm Learning
 
 - C and C++ fundamentals, data structures, and algorithms
 - Java, JDBC, and MySQL for database-backed applications
 - Dart and Flutter for mobile app development
-- Python for programming practice and numerical methods
+- Python and numerical methods
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies I'm Practicing
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -26,10 +24,10 @@ I enjoy learning programming fundamentals, exploring algorithms, and building sm
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Projects I'm Working On
 
-### [Employee Management System](https://github.com/Taherislam219/Employee-Management-System)
-A Java and MySQL learning project using JDBC for employee management and admin login.
+### [Social App](https://github.com/Taherislam219/Social_app)
+A Flutter learning project that I'm developing step by step while learning mobile app development.
 
 ### [Algorithms in C++](https://github.com/Taherislam219/Algorithm)
 Practice implementations of graph algorithms, dynamic programming, greedy algorithms, and binary search trees.
@@ -41,21 +39,22 @@ Practice programs for stacks, queues, linked lists, trees, searching, and recurs
 A Flutter and Dart learning project exploring mobile UI layouts and widgets.
 
 ### [Root-Finding Methods](https://github.com/Taherislam219/Root-Finding)
-Python implementations of numerical methods including bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
+Python implementations of numerical methods such as bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
 
 ### [C Programming Projects](https://github.com/Taherislam219/C-Project)
 C programming exercises including matrix operations, Tic-Tac-Toe, and array operations.
 
-## 📈 Current Goals
+## 🎯 Current Goals
 
-- Strengthen programming fundamentals and problem-solving
-- Practice data structures and algorithms consistently
-- Improve project documentation and code quality
-- Build useful projects and learn from feedback
+- Improve my programming fundamentals and problem-solving skills
+- Practice data structures and algorithms
+- Build and improve projects as I learn
+- Write clearer documentation and cleaner code
+- Learn from feedback and keep making progress
 
 ## 🤝 Connect & Collaborate
 
-I'm learning in public and always happy to learn from other developers. If you spot something I can improve in one of my learning projects, feel free to open an issue or share constructive feedback.
+I'm learning in public and welcome constructive feedback that helps me improve my projects.
 
 ## 📊 GitHub Stats
 
@@ -68,4 +67,4 @@ I'm learning in public and always happy to learn from other developers. If you s
 
 ---
 
-📌 *Learning, building, and improving one project at a time.*
+📌 *Still learning. Still building. Improving one project at a time.*
