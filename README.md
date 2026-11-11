@@ -1,69 +1,58 @@
 # Hi, I'm Taher Islam Jahid 👋
 
 🎓 Computer Science and Engineering student at **Leading University**  
-💻 Beginner developer — **still learning, building, and improving one project at a time.**
+💻 Learning by building projects, solving problems, and improving one step at a time.
 
-I'm learning software development by practicing programming fundamentals, solving problems, and building small projects. My repositories are works in progress, and I'm sharing my journey as I grow.
-
-## 🌱 What I'm Learning
-
-- C and C++ fundamentals, data structures, and algorithms
-- Java, JDBC, and MySQL for database-backed applications
-- Dart and Flutter for mobile app development
-- Python and numerical methods
+I'm interested in software development and enjoy turning what I learn into practical projects. My repositories reflect my learning journey and are updated as I build and improve.
 
 ## 🛠️ Technologies I'm Practicing
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+- **Languages:** C, C++, Java, Dart, Python
+- **Mobile & UI:** Flutter
+- **Backend & Database:** Supabase, MySQL, JDBC
+- **Core topics:** Data Structures, Algorithms, OOP, Database Systems
 
-## 🚀 Projects I'm Working On
+## 🚀 Featured Projects
+
+### [SmartAttend](https://github.com/Taherislam219/Smart_Attend)
+**Flutter · Dart · Supabase · GPS**
+
+A smart classroom attendance management app with student and teacher roles. Current work includes class creation, student enrollment requests, GPS-based attendance sessions, attendance review and correction, and attendance reports.
+
+**Next planned improvement:** one student account linked to one registered device, enforced securely through backend validation. This is a roadmap item, not yet implemented.
 
 ### [Social App](https://github.com/Taherislam219/Social_app)
-A Flutter learning project that I'm developing step by step while learning mobile app development.
+A Flutter learning project exploring mobile application UI and app development.
+
+### [Employee Management System](https://github.com/Taherislam219/Employee-Management-System)
+A Java and MySQL JDBC project for managing employee records.
 
 ### [Algorithms in C++](https://github.com/Taherislam219/Algorithm)
 Practice implementations of graph algorithms, dynamic programming, greedy algorithms, and binary search trees.
 
 ### [Data Structures in C++](https://github.com/Taherislam219/DataStructure)
-Practice programs for stacks, queues, linked lists, trees, searching, and recursion.
-
-### [My First Flutter App](https://github.com/Taherislam219/my_first_app)
-A Flutter and Dart learning project exploring mobile UI layouts and widgets.
+Practice programs covering stacks, queues, linked lists, trees, searching, and recursion.
 
 ### [Root-Finding Methods](https://github.com/Taherislam219/Root-Finding)
-Python implementations of numerical methods such as bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
+Python implementations of numerical methods including bisection, false position, Newton–Raphson, secant, and fixed-point iteration.
 
 ### [C Programming Projects](https://github.com/Taherislam219/C-Project)
-C programming exercises including matrix operations, Tic-Tac-Toe, and array operations.
+C programming exercises and small projects, including matrix operations, Tic-Tac-Toe, and array operations.
 
-## 🎯 Current Goals
+### [Dart Practice](https://github.com/Taherislam219/Dart)
+Dart programming exercises and learning practice.
 
-- Improve my programming fundamentals and problem-solving skills
-- Practice data structures and algorithms
-- Build and improve projects as I learn
-- Write clearer documentation and cleaner code
-- Learn from feedback and keep making progress
+## 🎯 Current Focus
+
+- Improving Flutter application architecture and backend integration
+- Learning secure authentication and authorization
+- Building reliable database-backed applications
+- Practicing data structures, algorithms, and problem solving
+- Improving testing, documentation, and code quality
 
 ## 🤝 Connect & Collaborate
 
-I'm learning in public and welcome constructive feedback that helps me improve my projects.
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Taherislam219&show_icons=true&hide_border=true" alt="GitHub stats for Taherislam219" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taherislam219&layout=compact&hide_border=true" alt="Most-used languages for Taherislam219" />
-</p>
+I'm learning in public and welcome constructive feedback, collaboration, and suggestions that help me improve.
 
 ---
 
